@@ -10,6 +10,7 @@ function getTranslationURL(text){
 
 function errorHandler(error){
     console.log('error occured', error);
+    alert('App usage is at its maximum. Please try after some time')
 }
 
 function clickHandler(){
